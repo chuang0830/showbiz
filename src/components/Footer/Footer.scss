@@ -1,0 +1,147 @@
+.footer{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #3e3a39;
+    padding-top: 20px;
+    margin-top: 10px;
+    @media (max-width: 1024px) {
+        padding-bottom: 20px;
+      }
+      &__content{
+        width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        @media (max-width: 1200px) {
+          width: 1024px;
+        }
+        @media (max-width: 1024px) {
+          display: none;
+        }
+      }
+      &__bottom{
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 20px;
+        color: #fff;
+        letter-spacing: 1px;
+        background-color: #000;
+        padding: 10px 0;
+        @media (max-width: 1200px) {
+          display: none;
+        }
+      }
+      &__mobile{
+        display: none;
+        @media (max-width: 1024px) {
+          display: block;
+        }
+      }
+}
+
+.content{
+  &__logo{
+    padding: 50px 70px;
+    background: url('https://cc.tvbs.com.tw/portal/images/logo-news.png') center no-repeat;
+    background-size: 116px 50px;
+  }
+  &__item{
+    padding: 10px;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+  &__server{
+    color: #fff;
+    font-size: 13px;
+    display: block;
+    overflow: hidden;
+    padding-top: 0px;
+    padding-left: 20px;
+  }
+}
+
+.server{
+  &__text{
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+  }
+  &__email{
+    color: #fff;
+    font-weight: bold;
+  }
+  &__contact{
+    font-weight: bold;
+  padding-left: 45px;
+  display: block;
+  padding: 10px 35px;
+  font-size: 13px;
+  :first-of-type {
+    background-image: url('https://showbiz.tvbs.com.tw/assets/images/icon9.png');
+    background-repeat: no-repeat;
+    background-position-y: 7px;
+  }
+  :last-of-type {
+    background-image: url('https://showbiz.tvbs.com.tw/assets/images/icon10.png');
+    background-repeat: no-repeat;
+    background-position-y: 7px;
+  }
+  }
+}
+
+//footeritem
+.item{
+  &__list{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    @media (max-width: 768px) {
+      font-size: 13px;
+    }
+  }
+  &__link{
+    color: #fff;
+    text-decoration: none;
+    text-align: left;
+    font-size: 13px;
+  }
+}
+
+.mobile{
+  &__content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  &__bottom{
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    @media (max-width: 768px) {
+      font-size: 13px;
+    }
+  }
+}
+
+.m-content{
+  &__item{
+    flex-shrink: 0;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 10px;
+    font-weight: bold;
+    border-right: 1px solid #fff;
+    :last-of-type {
+      border-right: none;
+    }
+    @media (max-width: 768px) {
+      font-size: 13px;
+    }
+  }
+  &__link{
+    color: #fff;
+    font-weight: bold;
+  }
+}

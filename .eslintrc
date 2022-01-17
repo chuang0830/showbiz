@@ -1,0 +1,9 @@
+{
+  "extends": ["react-app"],
+  "plugins": ["prettier", "react-hooks"],
+  "rules": {  //off-關閉 warn-警告 error-錯誤不執行
+    "prettier/prettier": "warn",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn"
+  }
+}

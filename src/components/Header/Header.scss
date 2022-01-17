@@ -1,0 +1,353 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin: 0 auto;
+    @media (max-width: 1200px) {
+        width: 95%;
+    }
+    &__logo{
+        display: flex;
+        align-items: center;
+        height: 76px;
+        position: relative;
+    }
+    &__search{
+        padding-top: 10px;
+    }
+}
+
+.logo{
+    &__img{
+        display: block;
+        padding-right: 20px;
+        background: url('https://cc.tvbs.com.tw/portal/images/logo.png') center no-repeat;
+        width: 112px;
+        height: 42px;
+    }
+}
+
+.search{
+    &__pc{   
+    @media (max-width: 1024px) {
+        display: none;
+        }
+    }
+    &__m{
+        display: none;
+        width: 40px;
+        height: 38px;
+        background-image: url('https://cc.tvbs.com.tw/portal/images/icon.png');
+        background-position: -160px 0;
+        cursor: pointer;
+        @media (max-width: 1024px) {
+            display: block;
+        }
+    }
+}
+
+.c-weather{
+    display: flex;
+    cursor: pointer;
+    &__img{
+        width: 45px;
+        flex-shrink: 0;
+        flex-grow: 0;
+        margin-right: 5px;
+    }
+    &__location{
+        display: block;
+        font-size: 14px;
+        color: #bcbcbc;
+        font-weight: bold;
+    }
+    &__temp{
+        display: block;
+        font-size: 14px;
+        color: #bcbcbc;
+        font-weight: bold;
+    }
+    &__spot{
+        display: block;
+        font-size: 14px;
+        color: #bcbcbc;
+        font-weight: bold;
+    }
+}
+
+.c-search{
+    margin-right: 5px;
+    display: inline-flex;
+    justify-content:flex-start;
+    &__input{
+        box-sizing: border-box;
+        width: 260px;
+        height: 30px;
+        border: 1px #ccc solid;
+        border-radius: 20px;
+        padding: 5px 15px;
+        font-size: 14px;
+        flex-shrink: 0;
+        flex-grow: 0;
+    }
+    &__btn{
+        display: inline-block;
+        width: 36px;
+        height: 36px;
+        background-image: url('https://cc.tvbs.com.tw/portal/images/icon_search.png');
+        cursor: pointer;
+    }
+    &--ham{
+        display: flex;
+        justify-content:flex-end;
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    &--ham &__input{
+        width: 230px;
+    }
+}
+
+.o-en{
+    display: inline-block;
+    background-color: #450024;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+// Ham.js
+.ham{
+    &__top{
+        padding: 20px 15px;
+    }
+    &__list{
+        display: block;
+    }
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    &__logo{
+        display: block;
+        width: 100px;
+    }
+    &__close{
+        display: block;
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+    }
+}
+
+.list{
+    display: block;
+    border: none;
+    margin: 0;
+    border-bottom: 1px dashed #8b3e5f;
+    position: relative;
+    &__title{
+        display: block;
+        color: #fff;
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: none;
+        margin: 0;
+        padding: 10px 15px;
+    }
+    &__sub-link{
+        font-size: 18px;
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        padding: 10px;
+        font-weight: bold;
+    }
+}
+
+// this
+.detail{
+   &__title{
+       margin-bottom: 20px;
+   }
+   &__air{
+
+   }
+   &__date{
+    width: 100%;
+    margin-top: 20px;
+    border: 2px solid #D3D3D3;
+    box-sizing: border-box;
+    overflow: hidden;
+   }
+   &__close{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background: url('https://imagecache.tvbs.com.tw/news/images/icon_close.png') center no-repeat;
+    background-size: 30px 30px;
+    }
+    &__yt{
+        margin-top: 20px;
+        width: 100%;
+        padding-bottom: 56%;
+        position: relative;
+    }
+    &__iframe{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+    &__flash{
+        width: 100%;
+        display: block;
+        padding: 5px;
+        background: #EAEAEA;
+        box-sizing: border-box;
+        color: #555;
+        overflow: hidden;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+.title{
+    display: flex;
+    &__name{
+        margin: 0;
+        font-size: 22px;
+        color: #8F004B;
+        font-weight: bold;
+        margin-right:50px ;
+        flex-shrink: 0;
+    }
+    &__setting{
+        background: url('https://imagecache.tvbs.com.tw/news/images/icon_setup.svg') left 7px no-repeat;
+        background-size: 18px 18px;
+        padding-left: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+   
+}
+
+.setting-select{
+    width: fit-content;
+    position: relative;
+    &__title{
+        margin: 0;
+        font-size: 16px;
+        color: #999;
+        cursor: pointer;
+    }
+    &__main{
+        text-decoration: none;
+        color: #FFF;
+        background: #666;
+        padding: 5px;
+        display: block;
+        text-align: center;
+        box-sizing: border-box;
+        width: 100px;
+        cursor: pointer;
+        &:hover .setting-select__sub-wrap{
+            display: block;
+        }
+        &:hover{
+            background-color: #333;
+        }
+    }
+    &__sub-wrap{
+        display: none;
+        position: absolute;
+        top:0;
+        left:100px;
+        height: 200px;
+        background: #333;
+        }
+    &__sub{
+        padding: 5px;
+        background: #333;
+        color: #FFF;
+        display: block;
+        box-sizing: border-box;
+        width: 70px;
+        cursor: pointer;
+        &:hover{
+            color: #FC0;
+        }
+    }
+}
+
+.air{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 10px solid #e4d3dc;;
+    padding-bottom: 20px;
+    &__title{
+        margin: 0;
+        font-size: 20px;
+        font-weight: bold;
+        color: #666;
+    }
+    &__number{
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 5px;
+    }
+    &__time{
+        font-size: 14px;
+        color: #999;
+        padding-top: 8px;
+    }
+}
+
+.date{
+    display: flex;
+    &__each{
+        display: block;
+        width: 80px;
+        background: #f2f2f2;
+        border: 1px #FFF solid;
+        border-top: 2px #FFF solid;
+        border-bottom: 2px #FFF solid;
+    }
+    &__title{
+        width: 100%;
+        background-color: #D4ACC1;
+        padding: 10px 0;
+        border-bottom: 2px #FFF solid;
+    }
+    &__text{
+        margin: 0;
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    &__weather{
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 10px;
+       
+    }
+    &__img{
+        width: 100%;
+    }
+    &__temp{
+        margin: 0;
+        padding: 5px 0 10px;
+        font-size: 14px;
+        color: #000;
+    }
+}
+
+

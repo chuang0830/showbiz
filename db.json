@@ -1,0 +1,119 @@
+{ "menu":{
+        "items":[
+        {"title":"TVBS新聞","url":"https://news.tvbs.com.tw/"},
+        {"title":"女人我最大","url":"https://woman.tvbs.com.tw/"},
+        {"title":"食尚玩家","url":"https://supertaste.tvbs.com.tw/"},
+        {"title":"健康2.0","url":"https://health.tvbs.com.tw/"},
+        {"title":"節目","sub":[{"sub_title":"Focus全球新聞","sub_url":"https://focus.tvbs.com.tw/"},{"sub_title":"T觀點","sub_url":"https://t-viewpoint.tvbs.com.tw/"},{"sub_title":"一步一腳印 發現新台灣","sub_url":"https://new-taiwan.tvbs.com.tw/"},{"sub_title":"中國進行式","sub_url":"https://chinaing.tvbs.com.tw/"},{"sub_title":"少康戰情室","sub_url":"https://2100.tvbs.com.tw/"},{"sub_title":"世界翻轉中","sub_url":"https://change.tvbs.com.tw/"},{"sub_title":"地球黃金線","sub_url":"https://news.tvbs.com.tw/cars"},{"sub_title":"看板人物","sub_url":"https://people.tvbs.com.tw/"},{"sub_title":"國民大會","sub_url":"https://bellesshow.tvbs.com.tw/"},{"sub_title":"當掌聲響起","sub_url":"https://showbiz.tvbs.com.tw/"}]},
+        {"title":"戲劇","sub":[{"sub_title":"天堂的微笑","sub_url":"https://drama.tvbs.com.tw/endlesslove/"},{"sub_title":"女兵日記","sub_url":"https://drama.tvbs.com.tw/girlspower/"},{"sub_title":"初戀的情人","sub_url":"https://drama.tvbs.com.tw/firstlove/"},{"sub_title":"翻牆的記憶","sub_url":"https://drama.tvbs.com.tw/sprouttvbs/"},{"sub_title":"酸甜之味","sub_url":"https://drama.tvbs.com.tw/familytime/"},{"sub_title":"在一起，就好","sub_url":"https://drama.tvbs.com.tw/standbyme/"},{"sub_title":"遺憾拼圖","sub_url":"https://drama.tvbs.com.tw/lifelist/"},{"sub_title":"16個夏天","sub_url":"https://drama.tvbs.com.tw/thewaywewere/"},{"sub_title":"戲劇製作部","sub_url":"https://drama.tvbs.com.tw/"}]},
+        {"title":"業務服務","url":"https://www.tvbs.com.tw/ours/advertise"},
+        {"title":"享食尚","url":"https://www.trendyfood.com.tw/"},
+        {"title":"基金會","url":"https://tvbsf.tvbs.com.tw/"},
+        {"title":"招募","url":"https://www.tvbs.com.tw/careers/"},
+        {"title":"頻道資訊","sub":[{"sub_title":"節目表","sub_url":"https://schedule.tvbs.com.tw/tvbs/2021-9-29/taiwan/zh-tw"},{"sub_title":"TVBS精彩台","sub_url":"http://vip.tvbs.com.tw/project/tvbse/activity/event/"},{"sub_title":"TVBS Asia","sub_url":"https://www.tvbs.com.tw/ours/en/tvbsasia"},{"sub_title":"新媒體數位節目","sub_url":"https://www.tvbs.com.tw/newmediatv"}]},
+        {"title":"English Version","url":"https://www.tvbs.com.tw/ours/en"}
+        ]
+        },  
+    "nav":{
+        "items":[
+            {"title":"TVBS新聞","url":"https://news.tvbs.com.tw/"},
+            {"title":"女人我最大","url":"https://woman.tvbs.com.tw/"},
+            {"title":"食尚玩家","url":"https://supertaste.tvbs.com.tw/"},
+            {"title":"健康2.0","url":"https://health.tvbs.com.tw/"},
+            {"title":"節目","sub":[{"sub_title":"Focus全球新聞","sub_url":"https://focus.tvbs.com.tw/"},{"sub_title":"T觀點","sub_url":"https://t-viewpoint.tvbs.com.tw/"},{"sub_title":"一步一腳印 發現新台灣","sub_url":"https://new-taiwan.tvbs.com.tw/"},{"sub_title":"中國進行式","sub_url":"https://chinaing.tvbs.com.tw/"},{"sub_title":"少康戰情室","sub_url":"https://2100.tvbs.com.tw/"},{"sub_title":"世界翻轉中","sub_url":"https://change.tvbs.com.tw/"},{"sub_title":"地球黃金線","sub_url":"https://news.tvbs.com.tw/cars"},{"sub_title":"看板人物","sub_url":"https://people.tvbs.com.tw/"},{"sub_title":"國民大會","sub_url":"https://bellesshow.tvbs.com.tw/"},{"sub_title":"當掌聲響起","sub_url":"https://showbiz.tvbs.com.tw/"}]},
+            {"title":"戲劇","sub":[{"sub_title":"天堂的微笑","sub_url":"https://drama.tvbs.com.tw/endlesslove/"},{"sub_title":"女兵日記","sub_url":"https://drama.tvbs.com.tw/girlspower/"},{"sub_title":"初戀的情人","sub_url":"https://drama.tvbs.com.tw/firstlove/"},{"sub_title":"翻牆的記憶","sub_url":"https://drama.tvbs.com.tw/sprouttvbs/"},{"sub_title":"酸甜之味","sub_url":"https://drama.tvbs.com.tw/familytime/"},{"sub_title":"在一起，就好","sub_url":"https://drama.tvbs.com.tw/standbyme/"},{"sub_title":"遺憾拼圖","sub_url":"https://drama.tvbs.com.tw/lifelist/"},{"sub_title":"16個夏天","sub_url":"https://drama.tvbs.com.tw/thewaywewere/"},{"sub_title":"戲劇製作部","sub_url":"https://drama.tvbs.com.tw/"}]},
+            {"title":"業務服務","url":"https://www.tvbs.com.tw/ours/advertise"},
+            {"title":"享食尚","url":"https://www.trendyfood.com.tw/"},
+            {"title":"基金會","url":"https://tvbsf.tvbs.com.tw/"},
+            {"title":"招募","url":"https://www.tvbs.com.tw/careers/"},
+            {"title":"頻道資訊","sub":[{"sub_title":"節目表","sub_url":"https://schedule.tvbs.com.tw/tvbs/2021-9-29/taiwan/zh-tw"},{"sub_title":"TVBS精彩台","sub_url":"http://vip.tvbs.com.tw/project/tvbse/activity/event/"},{"sub_title":"TVBS Asia","sub_url":"https://www.tvbs.com.tw/ours/en/tvbsasia"},{"sub_title":"新媒體數位節目","sub_url":"https://www.tvbs.com.tw/newmediatv"}]}
+            ]
+            },
+    "content":
+        [
+            {"id":"307553","title":"阿緯轉戰餐飲業 代理3港品牌全台6間店","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190541-082ca3a2-me.jpg"},
+            {"id":"307552","title":"賣日本家鄉味「章魚燒」 夢多自豪「也是本業」","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190535-e12bb902-me.jpg"},
+            {"id":"307551","title":"黑澀會美眉晉升副業女王! ㄚ頭凡事自己來","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190542-378556b1-me.jpg"},
+            {"id":"307550","title":"Makiyo副業豪砸200萬 代理日本進口飾品","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190537-cfe6bd69-me.jpg"},
+            {"id":"307549","title":"小煜打造髮廊加餐廳 複合式創新吸客","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190540-4b6e72cf-me.jpg"},
+            { "id": "307548", "title":"艾莉絲法國找到新自我 創業又迎二婚","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190536-5e10c8cb-me.jpg" },
+            { "id": "307547", "title":"嬰兒服飾創辦人陶傳正 中年轉業改演戲","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/09/14/20190914190539-c86d0117-me.jpg" },
+            { "id": "307480", "title":"蔣萬安育兒不設限 投其所好陪伴成長","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195106-4314b77e-me.jpg" },
+            { "id": "307479", "title":"蔡桃貴「青出於藍」 1歲萌娃人氣勝蔡阿嘎","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195100-662d1b16-me.jpg" },
+            { "id": "307478", "title":"三寶爸爸黃鐙輝 分齡教養.曉以大義","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195059-15870820-me.jpg" },
+            { "id": "307477", "title":"升格當爸爸! 哈孝遠:這輩子最快樂的時候","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195102-8a2bc2ae-me.jpg" },
+            { "id": "307476", "title":"阿福中西合併育兒 台德混血辣女獨立開朗","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195058-066ac168-me.jpg" },
+            { "id": "307475", "title":"郭彥均寵女「黏TT」 不請保母.親手育兒","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195107-e2471eb5-me.jpg" },
+            { "id": "307474", "title":"劉德華復出首拍《掃毒2》 突破界線聊妻女","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195103-6839503a-me.jpg" },
+            { "id": "0", "title":"2222蔡桃貴「青出於藍」 1歲萌娃人氣勝蔡阿嘎","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195100-662d1b16-me.jpg" },
+            { "id": "1", "title":"2222三寶爸爸黃鐙輝 分齡教養.曉以大義","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195059-15870820-me.jpg" },
+            { "id": "2", "title":"2222升格當爸爸! 哈孝遠:這輩子最快樂的時候","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195102-8a2bc2ae-me.jpg" },
+            { "id": "3", "title":"2222阿福中西合併育兒 台德混血辣女獨立開朗","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195058-066ac168-me.jpg" },
+            { "id": "4", "title":"2222郭彥均寵女「黏TT」 不請保母.親手育兒","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195107-e2471eb5-me.jpg" },
+            { "id": "5", "title":"2222劉德華復出首拍《掃毒2》 突破界線聊妻女","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195103-6839503a-me.jpg" },  { "id": "0", "title":"蔡桃貴「青出於藍」 1歲萌娃人氣勝蔡阿嘎","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195100-662d1b16-me.jpg" },
+            { "id": "6", "title":"2222三寶爸爸黃鐙輝 分齡教養.曉以大義","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195059-15870820-me.jpg" },
+            { "id": "7", "title":"2222升格當爸爸! 哈孝遠:這輩子最快樂的時候","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195102-8a2bc2ae-me.jpg" },
+            { "id": "8", "title":"2222阿福中西合併育兒 台德混血辣女獨立開朗","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195058-066ac168-me.jpg" },
+            { "id": "9", "title":"郭彥均寵女「黏TT」 不請保母.親手育兒","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195107-e2471eb5-me.jpg" },
+            { "id": "10", "title":"2222劉德華復出首拍《掃毒2》 突破界線聊妻女","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195103-6839503a-me.jpg" },
+            { "id": "11", "title":"2222三寶爸爸黃鐙輝 分齡教養.曉以大義","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195059-15870820-me.jpg" },
+            { "id": "12", "title":"升格當爸爸! 哈孝遠:這輩子最快樂的時候","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195102-8a2bc2ae-me.jpg" },
+            { "id": "13", "title":"阿福中西合併育兒 台德混血辣女獨立開朗","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195058-066ac168-me.jpg" },
+            { "id": "14", "title":"郭彥均寵女「黏TT」 不請保母.親手育兒","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195107-e2471eb5-me.jpg" },
+            { "id": "15", "title":"劉德華復出首拍《掃毒2》 突破界線聊妻女","img":"https://cc.tvbs.com.tw/img/program/_data/i/upload/2019/08/10/20190810195103-6839503a-me.jpg" }
+        ],
+    
+    "related":{
+        "items":[
+            {"title":"李銘順拚劉冠廷爭帝　苗可麗迎戰林予晞","img":"https://cc.tvbs.com.tw/img/upload/2021/09/28/20210928174426-603108fa.jpg","url":"https://news.tvbs.com.tw/entertainment/1593970"},
+            {"title":"獲金鐘貢獻獎！任立渝感恩「能做喜歡的事」","img":"https://cc.tvbs.com.tw/img/upload/2021/09/27/20210927164804-738a9da8.jpg","url":"https://news.tvbs.com.tw/entertainment/1593259"}
+        ]
+    },
+    "carousel":{
+        "items":[
+            {"url":"https://www.youtube.com/watch?v=7xaS_TWtqMI","img":"https://img.youtube.com/vi/7xaS_TWtqMI/hqdefault.jpg"},
+            {"url":"https://www.youtube.com/watch?v=P1XRyXD9Xak","img":"https://img.youtube.com/vi/P1XRyXD9Xak/hqdefault.jpg"},
+            {"url":"https://www.youtube.com/watch?v=fuTjUujvdz4","img":"https://img.youtube.com/vi/fuTjUujvdz4/hqdefault.jpg"},
+            {"url":"https://www.youtube.com/watch?v=uiCTyj2bo2I","img":"https://img.youtube.com/vi/uiCTyj2bo2I/hqdefault.jpg"},
+            {"url":"https://www.youtube.com/watch?v=syfut9Q8I0M","img":"https://img.youtube.com/vi/syfut9Q8I0M/hqdefault.jpg"}
+        ]
+    },
+    "footer":{
+        "items":[
+            {"group":[{"name":"公司介紹","url":"https://www.tvbs.com.tw/ours/company"},
+                {"name":"人才招募","url":"https://www.tvbs.com.tw/careers/"},
+                {"name":"節目表","url":"https://schedule.tvbs.com.tw/"},
+                {"name":"主播專區","url":"https://www.tvbs.com.tw/anchor"}]},
+            {"group":[{"name":"企業動態","url":"https://news.tvbs.com.tw/inter-news"},
+                {"name":"更正與澄清","url":"https://news.tvbs.com.tw/clarifications"},
+                {"name":"新聞自律規範","url":"https://www.tvbs.com.tw/news-rule"},
+                {"name":"個人資料保護","url":"https://www.tvbs.com.tw/policies/privacy"}]},
+            {"group":[ {"name":"網站使用協定","url":"https://www.tvbs.com.tw/policies/terms"},
+                {"name":"版權宣告","url":"https://www.tvbs.com.tw/policies/copyright"},
+                {"name":"業務服務","url":"https://www.tvbs.com.tw/ours/advertise"},
+                {"name":"節目版權銷售","url":"https://www.tvbs.com.tw/copyright"}]},
+           {"group":[{"name":"公開招標","url":"https://www.tvbs.com.tw/tender"},
+            {"name":"頂尖事務所","url":"https://family.tvbs.com.tw/"}]}
+        ]
+    },
+    "article": [
+        { "id": "307553", "title": "阿緯轉戰餐飲業 代理3港品牌全台6間店","time": "2019-09-15 16:00:30","text":"<h2>棒棒堂出身的藝人阿緯，最近幾年轉戰餐飲業，開了三個品牌的港式料理，全台總共有六間店，堪稱港點大亨一點都不為過，談起經營之道，阿緯不只對品質很堅持，還懂得用社群力量，讓客人拍照打卡做行銷。</h2><p>123</p><p>44444<br/>5555&&&&&nbsp123</p>" },
+        { "id": "307552", "title":"賣日本家鄉味「章魚燒」 夢多自豪「也是本業」" },
+        { "id": "307551", "title":"黑澀會美眉晉升副業女王! ㄚ頭凡事自己來"},
+        { "id": "307550", "title":"Makiyo副業豪砸200萬 代理日本進口飾品"},
+        { "id": "307549", "title":"小煜打造髮廊加餐廳 複合式創新吸客" },
+        { "id": "307548", "title":"艾莉絲法國找到新自我 創業又迎二婚" },
+        { "id": "307547", "title":"嬰兒服飾創辦人陶傳正 中年轉業改演戲" },
+        { "id": "307480", "title":"蔣萬安育兒不設限 投其所好陪伴成長" },
+        { "id": "307479", "title":"蔡桃貴「青出於藍」 1歲萌娃人氣勝蔡阿嘎" },
+        { "id": "307478", "title":"三寶爸爸黃鐙輝 分齡教養.曉以大義" },
+        { "id": "307477", "title":"升格當爸爸! 哈孝遠:這輩子最快樂的時候" },
+        { "id": "307476", "title":"阿福中西合併育兒 台德混血辣女獨立開朗" },
+        { "id": "307475", "title":"郭彥均寵女「黏TT」 不請保母.親手育兒" },
+        { "id": "307474", "title":"劉德華復出首拍《掃毒2》 突破界線聊妻女" }
+      ],
+      "weather":[
+            {"id":"taipei","location":"台北市","tempture":"20","img":"https://cc.tvbs.com.tw/img/upload/2017/11/28/20171128150517-2fd67cef.png"},
+            {"id":"taichung","location":"台中市","tempture":"30","img":"https://cc.tvbs.com.tw/img/upload/2017/11/28/20171128150517-2fd67cef.png"}
+        ]
+}
